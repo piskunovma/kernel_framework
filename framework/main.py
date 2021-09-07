@@ -1,5 +1,5 @@
-# from project.routes import routes
-# from project.front_controllers import fronts
+from project.routes import routes
+from project.front_controllers import fronts
 from project.views import NotFound404
 
 
@@ -31,5 +31,5 @@ class Framework:
 
 # application = Framework(routes, fronts)
 
-if __name__ == '__main__':
-    print(routes)
+# if __name__ == '__main__':
+#     print(routes)

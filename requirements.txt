@@ -1,0 +1,5 @@
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+repoze.lru==0.7
+six==1.16.0
+uWSGI==2.0.19.1
